@@ -1,0 +1,5 @@
+__pycache__/
+Dataset/
+demo_images/
+emotion_convnet_model/
+
